@@ -65,7 +65,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Mahi1801/Mahi1801/output/snake.svg" alt="Snake animation" />
-
-###
