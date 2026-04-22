@@ -8,9 +8,7 @@
   <a href="https://www.linkedin.com/in/mahisinghal-xut/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&labelColor=none&color=0077B5&logoColor=white&style=for-the-badge" height="32" style="margin: 5px;" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&labelColor=none&color=D14836&logoColor=white&style=for-the-badge" height="32" style="margin: 5px;" />
-  </a>
+  
 </div>
 
 ###
