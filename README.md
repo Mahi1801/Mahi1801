@@ -17,15 +17,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 
 ###
-
-<p align="left">I'm Mahi Singhal, a Web Developer from India. <br><br>- 📚 I'm currently learning Full Stack Developer<br>- ⚡ In my free time I learn new things</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
