@@ -15,9 +15,6 @@
 
 <h1 align="center">Hey there 👋 I'm Mahi
 
-- 🎓 Final-year B.Tech CS (Data Science) student
-- 📊 Building toward Data Analyst / BI Analyst roles — SQL, Python, Power BI, Streamlit
-- 🛠️ Also full-stack: React, TypeScript, Node.js, Django, Flask
 - ⚡ Campus Ambassador @ HCL GUVI | Technical Head @ DataVerse Club | Treasurer @ Arcade AR/VR & Gaming Club</h1>
 
 ###
