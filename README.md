@@ -15,7 +15,7 @@
 
 <h1 align="center">Hey there 👋 I'm Mahi
 
-- ⚡ Campus Ambassador @ HCL GUVI | Technical Head @ DataVerse Club | Treasurer @ Arcade AR/VR & Gaming Club</h1>
+</h1>
 
 ###
 
